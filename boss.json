@@ -6,6 +6,6 @@
 	"mainsrc": "src/",
 	"projects": [],
 	"dependencies": {
-		"github.com/snakeice/GrijjyFoundation": "^1.02"
+		"github.com/Next-Trends/GrijjyFoundation": "^1.0.0"
 	}
 }
